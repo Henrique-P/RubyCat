@@ -4,6 +4,4 @@ This Ruby file uses MiniMagick gem to fetch a picture from the HTTPCats API. The
 
 This is my first experimentation with MiniMagick and was created for learning/fun purposes.
 
-Links: https://github.com/minimagick/minimagick
-
-       https://github.com/httpcats/http.cat
+Links: https://github.com/minimagick/minimagick // https://github.com/httpcats/http.cat
